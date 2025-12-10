@@ -1,7 +1,7 @@
-import React, { useEffect, useState } from 'react';
-import Navbar from '../../Components/Navbar/Navbar';
-import Footer from '../../Components/Footer/Footer';
-import './Portfolio.css';
+import React, { useEffect, useState } from "react";
+import Navbar from "../../Components/Navbar/Navbar";
+import Footer from "../../Components/Footer/Footer";
+import "./Portfolio.css";
 
 // Placeholder images - replace with your actual images
 const portfolioImages = [
